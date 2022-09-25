@@ -1,2 +1,3 @@
 # portfolio
-Minha trajetória 
+
+Desenvolvimento do meu projeto e minha trajetoria
